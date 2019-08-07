@@ -1,5 +1,5 @@
 diff --git a/cmake/FindGSL.cmake b/cmake/FindGSL.cmake
-index c146f5d..081fa15 100755
+index c146f5d..081fa15 100644
 --- a/cmake/FindGSL.cmake
 +++ b/cmake/FindGSL.cmake
 @@ -164,7 +164,9 @@ else()
